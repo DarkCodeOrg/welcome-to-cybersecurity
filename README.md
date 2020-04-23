@@ -3,7 +3,7 @@ this is an guide for people aspiring to enter the world of cybersecurity
 
 so guys if you are visiting this page it means that you highly aspire to become an hacker or penetration tester 
 
-so let me introduce myself :  I am a hardcore linux user and computer geek.I am also a beginner in this field and an aspiring hacker
+so let me introduce myself :  I am a hardcore linux user and computer geek.I am also more or less intermediate in this field and an aspiring hacker
 
 now you might be thinking why should i (as a beginner) write a guide for this topic?
 the answer is simple becase many of the people face a common problem that from where should they begin learning, what are the pre-requisites and also there is a lack of proper resources. Even i faced problems(and even facing now also).
