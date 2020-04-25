@@ -4,7 +4,39 @@ Truthfully speaking you dont need any super computer to get started or begin hac
 
 Just a working computer or laptop will do ;-)
 
-now lets move to some advanced hacking 
+now lets move to some advanced hacking (which is pretty expensive)
 
-LAPTOP 
+    LAPTOP 
+a laptop is necessary when you will have to travel for your pen-testing expediotions which is very common once you start a job 
+as a pen-tester.So a laptop with a minimum of 500gb storage(ssd is highly recommended) and 8gb ram and a quad-core processor with 
+a graphics card(optional) is preffered.
 
+    DESKTOP(optional)
+    
+A desktop is needed to make a password cracking rig and performing resource heavy tasks.We all know that a desktop is more power
+efficient than a laptop.So if you have the money then you can build a password cracking rig with one(or more) high end gpus a 
+powerful quad/six/eight core cpu with high clockspeed maximum ram supported and other common things.
+
+    RASPBERRY PI(optional)
+    
+A raspberry pi is an awesome thing(at least i feel that).It has got numerous uses.It is one of the best things you can use to start your journey in hacking.
+For those of you who dont know what a PI BOARD is: it is actually a credit card sized COMPUTER(Single Board Computer).With the release of the 
+raspberry pi 4 the scenario of sbc's has changed.The raspberry pi 4 (4gb version) is an awesome board to get started.
+A raspberry pi can be used to set up an AP or a VPN serverand many more.Its a very good and cheap option to get started, Just Plug and Play.
+there are various versions of the raspberry pi and you can choose the one that fits you the best.
+
+    ARDUINO(optional)
+    
+Arduino is another popular tinker board but IT IS NOT A COMPUTER(SBC) remember that.You can program an arduino to perform a particular
+task such as tracking or monitoring or else.
+
+there is a lot of stuff you can feed on these two boards (pi and the arduino)
+
+    NETWORK ADAPTER(necessary for wireless cracking)
+    
+ A network adapter is necessary when you are going to attack an wireless network.You will need two adapters in reality.
+ One has to support monitor mode i.e it must be capable of capturing the wireless transsmissions and send it to the software 
+ that needs it.I am providing a link from where you can choose the network adapter that best suits you
+             https://null-byte.wonderhowto.com/how-to/buy-best-wireless-network-adapter-for-wi-fi-hacking-2019-0178550/
+             
+  
