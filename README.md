@@ -22,7 +22,8 @@ okay so please forgive me if i behave rudely sometimes ! and also my english !
 
 First of all i would like to tell you that hacking is something that you would probably not like to keep as a hobby since it demands for extreme hardwork and labour, so if you are a lazy person then you must stay away from this field.
  
- And there are numerous pre requisutes to start hacking 
+ And there are numerous pre requisutes to start hacking.But truthfully speaking you dont need any of them to get started.
+ just play ctfs and keep learning.They below mentioned things will help you in this field.
  
 1) First of all you will require a strong understanding of the linux operating system
           Why this is recommended is because using linux will give you strong understanding of your system and what     happens under the hood of your operating system. Now if you avoid the linux terminal and stick to gui you will probably not learn much from there.You have to be a tinkerer, the golden rule or the thumb rule is TINKER==>BREAK==>TROUBLESHOOT/FIX==>LEARN.This is how you will get a grip of your system.
