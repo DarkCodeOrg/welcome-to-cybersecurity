@@ -9,8 +9,6 @@ I am sharing the experience that i have gathered till now. There is no reason to
 
         And there are numerous pre requisites to start hacking.But truthfully speaking you dont need any of them to get started,..just play ctfs and checkout some wargames and keep learning.
 
- 
-
     First of all you will require a strong understanding of the linux operating system. 
 
     Why this is recommended is because using linux will give you strong understanding of your system and what happens under the hood of your operating system. Now if you avoid the linux terminal and stick to gui you will probably not learn much from there.You have to be a tinkerer, the golden rule or the thumb rule is TINKER==>BREAK==>TROUBLESHOOT/FIX==>LEARN.This is how you will get a grip of your system. Now many of you must have heard about kali linux (if not then no problem). It is a linux distro developed by Offensive Security.It is regarded as one of the most famous hacking distros(and it is).But learning linux from kali then you would probably be in a problem.It is not regarded as a beginner friendly distro, and moreover it does not include general purpose software that a user needs daily, it is packed up with hundreds of pen-testing tools. So if you are new to linux then i would personally recommend you to get started with a more friendly linux distro like ubuntu or linux mint, etc.
